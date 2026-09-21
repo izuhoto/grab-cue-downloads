@@ -1,3 +1,14 @@
+# GrabCue v0.0.3 2026-09-21
+
+This is the GrabCue v0.0.3 pre-release.
+This update improves large display, permission guidance, app search, and pasting from history.
+
+## Main Changes
+
+- Large display can now be closed with Escape and resized with + / -.
+- When reading or entering text needs Mac permission, GrabCue now shows a clearer guide to open System Settings.
+- App search can now find apps by other names they use, so they are easier to open from the keyboard.
+
 # GrabCue v0.0.2 2026-09-21
 
 This is the GrabCue v0.0.2 pre-release.
