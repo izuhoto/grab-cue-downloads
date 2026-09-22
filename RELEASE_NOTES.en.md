@@ -1,3 +1,12 @@
+# GrabCue v0.0.4 2026-09-22
+
+This is the GrabCue v0.0.4 pre-release.
+This update makes app search find more apps.
+
+## Main Changes
+
+- App search can now find apps in the Utilities folder, such as Activity Monitor and Terminal, so they are easier to open from the keyboard.
+
 # GrabCue v0.0.3 2026-09-21
 
 This is the GrabCue v0.0.3 pre-release.
