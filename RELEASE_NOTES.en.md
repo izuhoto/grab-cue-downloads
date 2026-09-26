@@ -1,3 +1,12 @@
+# GrabCue v0.0.5 2026-09-26
+
+This is the GrabCue v0.0.5 pre-release.
+This update improves turning actions on or off in the selection menu.
+
+## Main Changes
+
+- In selection menu settings, actions you added later or actions that are temporarily hidden now stay turned off when you change other actions.
+
 # GrabCue v0.0.4 2026-09-22
 
 This is the GrabCue v0.0.4 pre-release.
