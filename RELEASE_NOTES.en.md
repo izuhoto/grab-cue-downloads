@@ -1,3 +1,12 @@
+# GrabCue v0.0.6 2026-09-26
+
+This is the GrabCue v0.0.6 pre-release.
+This update improves where small GrabCue windows appear after display changes.
+
+## Main Changes
+
+- Command palette, snippets, history, and paste queue windows now reopen in a more natural position after you connect or disconnect a display or change screen size.
+
 # GrabCue v0.0.5 2026-09-26
 
 This is the GrabCue v0.0.5 pre-release.
