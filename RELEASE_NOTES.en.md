@@ -1,3 +1,12 @@
+# GrabCue v0.0.7 2026-09-30
+
+This is the GrabCue v0.0.7 pre-release.
+This update makes Japanese text input in history search easier to use.
+
+## Main Changes
+
+- When searching clipboard history, confirming Japanese conversion with Enter no longer runs the selected item. The confirmed text now stays in the search field.
+
 # GrabCue v0.0.6 2026-09-26
 
 This is the GrabCue v0.0.6 pre-release.
