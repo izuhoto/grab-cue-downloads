@@ -1,3 +1,12 @@
+# GrabCue v0.0.9 2026-10-02
+
+This is the GrabCue v0.0.9 pre-release.
+This update improves how snippet previews appear when you reopen the palette.
+
+## Main Changes
+
+- After you scroll a snippet preview, reopening the palette now always shows the preview from the top again.
+
 # GrabCue v0.0.8 2026-10-02
 
 This is the GrabCue v0.0.8 pre-release.
