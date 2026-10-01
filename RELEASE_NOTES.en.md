@@ -1,3 +1,13 @@
+# GrabCue v0.0.8 2026-10-02
+
+This is the GrabCue v0.0.8 pre-release.
+This update makes clipboard history timestamps easier to read and keeps long snippets snappy while you move through the list.
+
+## Main Changes
+
+- In clipboard history, today's items still show the time only. Older items from this year show the month and day with the time. Items from earlier years show the year, month, and day with the time.
+- Moving up and down the snippet list stays more responsive after you select a long snippet.
+
 # GrabCue v0.0.7 2026-09-30
 
 This is the GrabCue v0.0.7 pre-release.
